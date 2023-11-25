@@ -18,3 +18,13 @@ Using the code in a project
 If you would like to recreate exactly what I did you can simply create a new win forms project in visual studio and add an event on the form for Paint. This will create the Form1_Paint() method, furthermore just copy the rest in your project and everything should work.
 
 
+
+Methods I used:
+
+![image](https://github.com/Hennie5229x/Draw-Projects/assets/79542877/f5c19322-cda3-4570-8016-b9db054db1e0)
+
+![image](https://github.com/Hennie5229x/Draw-Projects/assets/79542877/6e5f7ca9-ebee-4f81-8bd1-6a59f81ffe41)
+
+
+
+

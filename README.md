@@ -19,7 +19,11 @@ If you would like to recreate exactly what I did you can simply create a new win
 
 
 
-Methods I used:
+
+
+
+Methods I used to construct the Circle and Ellipse
+----------------------------------------------------
 
 ![image](https://github.com/Hennie5229x/Draw-Projects/assets/79542877/f5c19322-cda3-4570-8016-b9db054db1e0)
 
